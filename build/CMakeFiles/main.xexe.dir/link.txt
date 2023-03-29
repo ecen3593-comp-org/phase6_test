@@ -1,1 +1,0 @@
-/home/project/rv32i_ca/work/ia/sdk/bin/rv32i_ca-ia-clang -O0 -g3 -nostdlib    -rdynamic CMakeFiles/main.xexe.dir/src/phase6_test.s.o  -o main.xexe 

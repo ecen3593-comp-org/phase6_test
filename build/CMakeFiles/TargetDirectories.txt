@@ -1,3 +1,0 @@
-/home/project/phase6_test/build/CMakeFiles/rebuild_cache.dir
-/home/project/phase6_test/build/CMakeFiles/main.xexe.dir
-/home/project/phase6_test/build/CMakeFiles/edit_cache.dir
